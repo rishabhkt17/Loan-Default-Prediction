@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment variables / API keys
+.env
+.env.*
+
+# Model files
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Main Dataset as the file is large in size 
+accepted_2007_to_2018Q4.csv
