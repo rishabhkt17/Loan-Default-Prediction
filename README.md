@@ -21,7 +21,7 @@ This project trains a machine learning model to estimate the risk of loan defaul
 
 ## Dataset
 
-The project expects the LendingClub accepted loans dataset:
+The project dataset is downloaded from Kaggle and link is mentioned
 
-```text
-accepted_2007_to_2018Q4.csv
+
+https://www.kaggle.com/datasets/wordsforthewise/lending-club/data
